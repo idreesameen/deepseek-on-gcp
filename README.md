@@ -48,4 +48,4 @@ Google Cloud offers a **$300 free trial** for new accounts, which can be used to
 - Cloud Run ensures efficient cost management by stopping instances when not in use.
 
 ## Contact
-For any issues or improvements, please raise a GitHub issue or contact the development team.
+For any issues or improvements, please raise a GitHub issue or contact the development team .
